@@ -21,6 +21,10 @@ Original hospital discharge note — source of truth for all other documents.
 
 Daily medication schedule for all 17 medicines — timings, drug interactions, safety warnings, and phase-wise stop dates.
 
+[2.3 medication-timetable-print-hindi.md](<2.3 medication-timetable-print-hindi.md>) · Print-friendly (Hindi / हिंदी)
+
+Print-optimised version of the Hindi timetable — phase-by-phase daily schedules, SOS medication instructions, Terifrac injection log, and key red flags. Meant to be printed and kept by the bedside or on the fridge.
+
 ---
 
 ### 3. Physiotherapy Plan (Final Master Guide)
@@ -30,6 +34,12 @@ Daily medication schedule for all 17 medicines — timings, drug interactions, s
 [3.3 physiotherapy-final-hindi.md](<3.3 physiotherapy-final-hindi.md>) · Hindi (हिंदी)
 
 Complete Day 1 to Week 6 home recovery plan — 32 exercises with step-by-step caregiver scripts, day-by-day schedules, red flags, and a printable fridge card.
+
+[3.1 physiotherapy-quick-english.md](<3.1 physiotherapy-quick-english.md>) · Quick guide (English)
+
+[3.2 physiotherapy-quick-hindi.md](<3.2 physiotherapy-quick-hindi.md>) · Quick guide (Hindi / हिंदी)
+
+Short, to-the-point version of the above — day-wise exercise list with reps, sets, and hold times, plus a concise "how to perform" reference for each of the 32 exercises. Meant for daily use at the bedside.
 
 ---
 
